@@ -577,6 +577,8 @@ a.link:hover {
 .footer-subscribe-button {
   display: flex;
   align-items: center;
+  justify-content: flex-end;
+  width: 200px;
   gap: 10px;
   background-color: var(--accent-color);
   color: var(--primary-white-color);
